@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# uv / virtualenv
+.venv/
+
+# 输出目录（嵌入歌词后的文件）
+out/
+输出/
